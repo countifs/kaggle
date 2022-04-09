@@ -1,0 +1,12 @@
+,0
+id,int64
+clump_thickness,int64
+size_uniformity,int64
+shape_uniformity,int64
+marginal_adhesion,int64
+epithelial_size,int64
+bare_nucleoli,object
+bland_chromatin,int64
+normal_nucleoli,int64
+mitoses,int64
+class,int64

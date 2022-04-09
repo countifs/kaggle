@@ -1,0 +1,18 @@
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 699 entries, 0 to 698
+Data columns (total 11 columns):
+ #   Column             Non-Null Count  Dtype 
+---  ------             --------------  ----- 
+ 0   id                 699 non-null    int64 
+ 1   clump_thickness    699 non-null    int64 
+ 2   size_uniformity    699 non-null    int64 
+ 3   shape_uniformity   699 non-null    int64 
+ 4   marginal_adhesion  699 non-null    int64 
+ 5   epithelial_size    699 non-null    int64 
+ 6   bare_nucleoli      699 non-null    object
+ 7   bland_chromatin    699 non-null    int64 
+ 8   normal_nucleoli    699 non-null    int64 
+ 9   mitoses            699 non-null    int64 
+ 10  class              699 non-null    int64 
+dtypes: int64(10), object(1)
+memory usage: 60.2+ KB
